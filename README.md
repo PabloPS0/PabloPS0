@@ -7,8 +7,8 @@
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 <div align="left">
     <a href="https://github.com/PabloPS0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloPS0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPS0&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PabloPS0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPS0&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 # 💻 Tech Stack
