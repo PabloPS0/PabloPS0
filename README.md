@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Pablo!
 👩🏻‍💻 Software Engineer<br/>
-👩🏻‍🎓 Studied **Software Engineering** at the University of Estácio, Brazil<br/>
+👩🏻‍🎓 Studying **Software Engineering** at the University of Estácio, Brazil<br/>
 💭 Currently learning about database and django backend development!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
